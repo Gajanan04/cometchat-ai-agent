@@ -28,7 +28,7 @@
         "missing: final sale does not block damaged-item review",
         "missing: report within 7 days",
         "missing: human review before approval",
-        "sources: expected {'04-damaged-or-wrong-items.md', '03-final-sale-and-promotions.md'}, got {'03-final-sale-and-promotions.md'}",
+        "sources: expected {'03-final-sale-and-promotions.md', '04-damaged-or-wrong-items.md'}, got {'03-final-sale-and-promotions.md'}",
         "handoff mismatch"
       ]
     },

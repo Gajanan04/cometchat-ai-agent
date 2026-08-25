@@ -189,7 +189,7 @@ python -m backend.app.main
 
 A 2–4 minute walkthrough demonstrating the key reliability and agent behaviors.
 
-**Watch the demo:** [ADD VIDEO LINK HERE]
+**Watch the demo:** https://drive.google.com/file/d/1RtP3vuvjt8O-lPwD-1vsevDNjOiNM8Qi/view?usp=sharing
 
 The demo covers:
 
