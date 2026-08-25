@@ -211,5 +211,5 @@ The demo covers:
 - [x] Bug diary
 - [x] Limitations documented
 - [x] AI coding tools disclosed
-- [ ] Demo video link added
-- [ ] Final submission link checked
+- [x] Demo video link added
+- [x] Final submission link checked
